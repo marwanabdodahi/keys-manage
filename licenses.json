@@ -2,7 +2,7 @@
   "format": "istekana-pos-license-registry",
   "version": 1,
   "keyId": "pos-reg-2026-09",
-  "issuedAt": "2026-09-25T12:45:23.526Z",
+  "issuedAt": "2026-09-25T12:54:17.223Z",
   "devices": {
     "4db98b36768d3d3832955c9a608e0264d1b310ac0a3adad027eef148f7c0905b": {
       "status": "active",
@@ -13,7 +13,12 @@
       "status": "active",
       "expires_at": "2026-10-01T23:59:59.000Z",
       "note": "الجهاز الداخلي"
+    },
+    "1d1c8d6eeaf9520d263165ec49b931148ab49409bb87ae28e82e7cf65a3af17c": {
+      "status": "active",
+      "expires_at": "2026-10-01T23:59:59.000Z",
+      "note": "مروان"
     }
   },
-  "signature": "vdiYmtxKKwL5kkpHANqaKuVBkCana91CCOe_PJTSOx20BY-z0BAcmXtHV7VLHlA-SlLWO3KEk6MzJfp5F83-DQ"
+  "signature": "k3diLlJU_bQDFx_oT_D-LPKDh52JrVmzNP0CvbNaaORZIsyOJQ7DS5JxxQ2bVdJSry1AwmNsZ2kww7tvOEFTAg"
 }
