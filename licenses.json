@@ -2,23 +2,23 @@
   "format": "istekana-pos-license-registry",
   "version": 1,
   "keyId": "pos-reg-2026-09",
-  "issuedAt": "2026-09-25T12:54:17.223Z",
+  "issuedAt": "2026-10-01T11:37:51.383Z",
   "devices": {
     "4db98b36768d3d3832955c9a608e0264d1b310ac0a3adad027eef148f7c0905b": {
       "status": "active",
-      "expires_at": "2026-10-01T23:59:59.000Z",
+      "expires_at": "2026-11-01T23:59:59.000Z",
       "note": "الجهاز الخارجي"
     },
     "4dba0c76c4562496a44096cbb8add488979b50587fd5438a2b93a59e3a398080": {
       "status": "active",
-      "expires_at": "2026-10-01T23:59:59.000Z",
+      "expires_at": "2026-11-01T23:59:59.000Z",
       "note": "الجهاز الداخلي"
     },
     "1d1c8d6eeaf9520d263165ec49b931148ab49409bb87ae28e82e7cf65a3af17c": {
       "status": "active",
-      "expires_at": "2026-10-01T23:59:59.000Z",
+      "expires_at": "2026-11-01T23:59:59.000Z",
       "note": "مروان"
     }
   },
-  "signature": "k3diLlJU_bQDFx_oT_D-LPKDh52JrVmzNP0CvbNaaORZIsyOJQ7DS5JxxQ2bVdJSry1AwmNsZ2kww7tvOEFTAg"
+  "signature": "3XAg4alengbYZ8t28tMrvQX7sZJDPy-g5NMGEAeOm9fpktfw0QwRUZi1B5eKNbdtlJ8cQuxnVsin0_f09TesAQ"
 }
